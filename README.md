@@ -1,1 +1,3 @@
-# wizardDevR-IPC1_S12023_Proyecto1_202108307
+Brayan oswaldo rojas morales
+202108307 
+Introduccion a la programacion y computacion 1, seccion G
